@@ -33,6 +33,7 @@ export default async function Page() {
             type="invoices"
           />
         }
+        ,{" "}
         {
           <Card
             title="Total Customers"
